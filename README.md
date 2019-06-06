@@ -18,5 +18,5 @@ Getting Started,
       1) cd into the server folder and run: mvn clean install command.
       2) Run the spring boot standalone application from any IDE( I used Eclipse).
 5.	To run the frontend application, 
-            1)cd into the client folder and run: ‘npm install' ,’ npm install -g @angular/cli’ commands to install the node angular cli  packages.
-       2)Run: ‘ng serve --open’. this will run the application starts the server in browser.
+	cd into the client folder and run: ‘npm install' ,’ npm install -g @angular/cli’ commands to install the node angular cli  packages.
+	Run: ‘ng serve --open’. this will run the application starts the server in browser.
