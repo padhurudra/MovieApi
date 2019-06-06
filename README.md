@@ -15,8 +15,10 @@ Getting Started,
 2.	This will get a copy of the project installed locally. 
 3.	To install all its dependencies and start each app, follow the instructions below. 
 4.	To run the backend application,
-      1) cd into the server folder and run: mvn clean install command.
-      2) Run the spring boot standalone application from any IDE( I used Eclipse).
+      
+           cd into the server folder and run: mvn clean install command.
+     
+           Run the spring boot standalone application from any IDE( I used Eclipse).
       
 5.To run the frontend application, 
        
